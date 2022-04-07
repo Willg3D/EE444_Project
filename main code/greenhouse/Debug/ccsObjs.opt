@@ -1,0 +1,1 @@
+"./dht11Sensor.obj" "./hal_lcd.obj" "./hal_lcd_fonts.obj" "./main.obj" "./soil_light.obj" "../lnk_msp430f5438a.cmd" -llibmath.a -llibc.a 
